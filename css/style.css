@@ -1756,7 +1756,13 @@ footer p {
 	}
 }
 
-
+.pdfFile{
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+	width: 100%;
+	height: 973px;
+}
 
 
 
